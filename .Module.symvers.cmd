@@ -1,0 +1,1 @@
+savedcmd_/home/pranavt/develop/kernel/syscall-steal/Module.symvers :=  scripts/mod/modpost -M  -a    -N  -o /home/pranavt/develop/kernel/syscall-steal/Module.symvers -T /home/pranavt/develop/kernel/syscall-steal/modules.order -i Module.symvers -e 
